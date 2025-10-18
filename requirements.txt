@@ -1,0 +1,6 @@
+
+### requirements.txt
+```txt
+RPi.GPIO==0.7.1
+pygame==2.1.0
+evdev==1.4.0
